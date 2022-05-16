@@ -3,7 +3,9 @@
   margin: 0;
   padding 0;
 }
-/* = The beginning of a CSS Note.
-CSS notes are not rendered by browser and have no effect the the design.
-The end of a CSS note = */
+body
+{
+  background-color: lightblue;
+}
 
+/* background-color: yourDesiredColor; is how you change the background of the area of the selector */
