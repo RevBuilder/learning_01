@@ -16,7 +16,10 @@ header
   box-shadow: 0px 0px 3px black;
 }
 /*
-  CSS box-shadow property is used to apply one or more shadows to an element.  
-  The default color is current text-color.
-  Going from left to right:  The first 0px is the right shadow for the right boarder.  The second 0px is the shadow for the bottom boarder.  The 3px is the blur of the shadow.  The black color is only needed should you change the text color to a light color as the blur does not show when used to create this elevated look.
+  - CSS box-shadow property is used to  apply one or more shadows to an element.
+  - We will learn more about box-shadow later. Right now we are using it to make the header look elegant by giving it a slightly elevated look.   
+  - Going from left to right:  
+    The first 0px is the right shadow for the right boarder.  
+    The second 0px is the shadow for the bottom boarder.  
+    The 3px is the blur of the shadow.  The default color is the current text-color.  The black color is only needed here should we change the text color to a light color as the blur does not show when used to create this elevated look.
 */
