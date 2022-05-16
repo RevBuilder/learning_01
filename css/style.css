@@ -1,0 +1,9 @@
+* 
+{
+  margin: 0;
+  padding 0;
+}
+/* 
+  As it's name implies, the universal selector can manipulate everything.  It is good practice to zero out the margin and padding so the browser default settings don't effect your page layout
+*/
+
